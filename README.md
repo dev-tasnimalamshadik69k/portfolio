@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Portfolio - MAS Yasin Arafat </title>
+<title>Portfolio - Tasnim Alam Shadik</title>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" type="adfccffb3034a7c313a18be2-text/javascript"></script>
@@ -241,5 +241,4 @@ Look at the Chart
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="script.js" type="adfccffb3034a7c313a18be2-text/javascript"></script>
 <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="adfccffb3034a7c313a18be2-|49" defer=""></script></body>
 </html>
-=io
-This Is my new project
+=
